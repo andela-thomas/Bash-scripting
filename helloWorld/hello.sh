@@ -3,4 +3,4 @@
 # print hello world
 # Authour: Thomas Nyambati
 
-echo Hello world!
+echo "Hello world!"
